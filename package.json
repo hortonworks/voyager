@@ -10,11 +10,12 @@
     "Dominik Moritz <domoritz@cs.washington.edu> (http://domoritz.de)",
     "Kanit Wongsuphasawat <kanitw@gmail.com> (http://kanitw.yellowpigz.com)",
     "Jeffrey Heer <jheer@uw.edu> (http://jheer.org)",
-    "Vivek Ratnavel <vivekratnavel.s@gmail.com>"
+    "Vivek Ratnavel <vivekratnavel.s@gmail.com>",
+    "Pallav Kulshreshtha <pkulshreshtha@hortonworks.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vivekratnavel/voyager"
+    "url": "https://github.com/hortonworks/voyager"
   },
   "license": "BSD-3-Clause",
   "scripts": {

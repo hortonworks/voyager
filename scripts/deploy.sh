@@ -29,7 +29,7 @@ fi
 gitsha=$(git rev-parse HEAD)
 version=$(cat package.json | jq .version | sed -e 's/^"//'  -e 's/"$//')
 
-git clone https://github.com/vivekratnavel/voyager.git gh-pages
+git clone https://github.com/hortonworks/voyager.git gh-pages
 cd gh-pages
 git checkout gh-pages
 cd ..
